@@ -39,7 +39,7 @@ MINERVA's consortium brings together unmatched expertise in HPC infrastructure, 
   - **Date:** September 23, 2025
   - **Organizers:** Tübingen AI Center
   - **Slides:** [📄 PDF folder](pdfs/20250923_AI_Agent_Tutorial/agents_mcp_and_langgraph.pdf) \| [🌐 Event page](https://github.com/TuebingenAICenter/agent-tutorial)
-  - **Description** The tutorial focuses on two key frameworks for building robust, multi-step agents: [LangGraph][https://www.langchain.com/langgraph] and [Model Context Protocol (MCP)][https://modelcontextprotocol.io/docs/getting-started/intro]. 
+  - **Description** This tutorial highlights two essential frameworks for developing robust, multi-step agents: [LangGraph](https://www.langchain.com/langgraph) and the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/docs/getting-started/intro). For additional resources, please refer to the [companion repository](https://github.com/TuebingenAICenter/agent-tutorial).
 
 - #### \<EVENT NAME\> 
   - **Date:** \<DATE\> 
