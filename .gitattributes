@@ -1,2 +1,1 @@
 *.pdf filter=lfs diff=lfs merge=lfs -text
-pdfs/20250923_AI_Agent_Tutorial/agents_mcp_and_langgraph.pdf filter=lfs diff=lfs merge=lfs -text
