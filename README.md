@@ -23,6 +23,7 @@ MINERVA's consortium brings together unmatched expertise in HPC infrastructure, 
 | Date       | Training title                      | Organizers           | Resources |
 |------------|-------------------------------------|---------------------|-------------------|
 | 16 Sep 2025 | [HPC for AI Research - ICIAP 2025](#hpc-for-ai-research---iciap-2025)        | UNIMORE, CINECA    | [📄 PDF Folder](pdfs/20250916_ICIAP_HPC_Tutorial/) \| [🌐 Event Page](https://ailb-web.ing.unimore.it/tutorial-iciap-2025/) |
+| 23 Sep 2025 | [Tutorial: AI Agents - GCPR 2025](#tutorial-ai-agents---gcpr-2025)        | Tübingen AI Center    | [📄 PDF Folder](pdfs/20250923_AI_Agent_Tutorial/agents_mcp_and_langgraph.pdf) \| [🌐 Event Page](https://github.com/TuebingenAICenter/agent-tutorial) |
 | \<DATE\> |  \<EVENT NAME\> | \<ORGANIZERS\> | \<LINKS TO RESOURCES\>|
 
 ---
@@ -34,12 +35,17 @@ MINERVA's consortium brings together unmatched expertise in HPC infrastructure, 
   - **Slides:** [📄 PDF folder](pdfs/20250916_ICIAP_HPC_Tutorial/) \| [🌐 Event page](https://ailb-web.ing.unimore.it/tutorial-iciap-2025/)
   - **Description** This tutorial focuses on the computational aspects of training and deploying large-scale AI models using high-performance computing (HPC). Topics include distributed training, multi-GPU and multi-node acceleration, mixed-precision optimization, efficient data handling, and resource management on supercomputing clusters. Special attention is given to transformer-based architectures, self- and semi-supervised learning, and energy-efficient AI practices. Participants will gain both theoretical insights and hands-on experience with frameworks such as PyTorch and DeepSpeed, learning best practices for scalable and sustainable AI research on HPC infrastructures.
 
+- ####  Tutorial: AI Agents - GCPR 2025
+  - **Date:** September 23, 2025
+  - **Organizers:** Tübingen AI Center
+  - **Slides:** [📄 PDF folder](pdfs/20250923_AI_Agent_Tutorial/agents_mcp_and_langgraph.pdf) \| [🌐 Event page](https://github.com/TuebingenAICenter/agent-tutorial)
+  - **Description** This tutorial highlights two essential frameworks for developing robust, multi-step agents: [LangGraph](https://www.langchain.com/langgraph) and the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/docs/getting-started/intro). For additional resources, please refer to the [companion repository](https://github.com/TuebingenAICenter/agent-tutorial).
+
 - #### \<EVENT NAME\> 
   - **Date:** \<DATE\> 
   - **Organizers:** \<ORGANIZER\>
   - **Slides:** [📄 PDF folder]() \| [🌐 Event page]()
   - **Description** \<DESCRIPTION\>
-
 
 ---
 ## 📥 Contribution guide (for organizers)
